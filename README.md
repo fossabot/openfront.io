@@ -10,6 +10,7 @@
 
 ![Prettier Check](https://github.com/openfrontio/OpenFrontIO/actions/workflows/prettier.yml/badge.svg)
 [![Crowdin](https://badges.crowdin.net/openfront-mls/localized.svg)](https://crowdin.com/project/openfront-mls)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FpartialStacktrace%2Fopenfront.io.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FpartialStacktrace%2Fopenfront.io?ref=badge_shield)
 
 OpenFront is an online real-time strategy game focused on territorial control and alliance building. Players compete to expand their territory, build structures, and form strategic alliances in various maps based on real-world geography.
 
@@ -21,6 +22,9 @@ This project uses a dual-licensing approach:
 
 - Code in the `server/` and `core/` directory is licensed under MIT
 - Client code (in the `client/` directory) is licensed under GPL v3
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FpartialStacktrace%2Fopenfront.io.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FpartialStacktrace%2Fopenfront.io?ref=badge_large)
 
 ## 🌟 Features
 
